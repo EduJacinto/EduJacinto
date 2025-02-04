@@ -1,8 +1,6 @@
 # EduJacinto
-> Hello, I am a CompSci student 💻
+> Hello, I am a Junior at the University of North Florida studying Computer Science 💻
 
-> I will be using this GitHub mostly to post my projects 👾
+> I will be using this GitHub for version control (of course) and to host my personal and school projects.
 
 > I would also like to collaborate with others!
-
-> Cheers!
