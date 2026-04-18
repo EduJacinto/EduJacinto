@@ -3,4 +3,3 @@
 
 > This GitHub hosts my personal and school projects.
 
-> I would also like to collaborate with others
